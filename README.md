@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image.png)
+![MasterHead](./adam.png)
 <h3 align="left">I'm on a mission to drive innovation and efficiency in government services.</h3>
 <img style="float: center; width: 300px;" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
